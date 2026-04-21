@@ -39,8 +39,10 @@
 
 ---
 <p align="center">
-  <img src="./error_picture" width="300">
+  <img src="./error_picture" width="1000">
 </p>
+
+# 👋 학교 아이디는 적합하지 않은 이메일이라고 해서 개인 계정입니다~~
 
 error_picture
 ---
