@@ -25,10 +25,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인의깃허브ID]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인의깃허브ID]&layout=compact&theme=radical)
-
----
-
 
