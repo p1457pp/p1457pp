@@ -39,10 +39,10 @@
 
 ---
 <p align="center">
-  <img src="./error_picture.png" width="300">
+  <img src="./error_picture" width="300">
 </p>
 
-
+error_picture
 ---
 
 ### 📊 GitHub Stats
