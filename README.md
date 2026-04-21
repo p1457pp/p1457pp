@@ -39,10 +39,7 @@
 
 ---
 
-### 📂 Featured Projects
-- **온마음 프로젝트 (AISW Festival 전시)**
-  - 청소년을 위한 AI 심리 상담 서비스
-  - AI 모델 서빙 및 인터페이스 구현
+
 
 ---
 
@@ -58,8 +55,8 @@
 ---
 
 ### 📫 Contact Me
-- 📧 **Email:** [본인의 이메일 주소]
-- 💬 **Link:** [블로그나 SNS 주소]
+- 📧 **Email:** [p1457pp@hs.ac.kr]
+
 
 <p align="right">
   <i>"Steady progress wins the race."</i>
